@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>(IndexHTML)</title>
+	</head>
+	<body>	
+	<h2>страница index</h2>
+	<h1>Cсылки на сайты (Задача_1)</h1>
+	<ul>
+	<li><a href="https://www.google.com">ссылка на Google</a></li>
+	<li><a href="https://www.youtube.com">ссылка на Ютуб</a></li>
+	<li><a href="https://code.mu">ссылка на code.mu</a></li>
+	</ul>
+	<h1>Другие страницы</h1>
+	<ul>
+	<li><a href="page.html">Первая страница</a></li>
+	<li><a href="page2.html">Вторая страница</a></li>
+	<li><a href="page3.html">Третья страница</a></li>
+	</ul>
+	<p>///........</p>
+	<img src="robot.png" width="250" height="250">
+	</body>
+</html>
