@@ -1,6 +1,14 @@
 p{color: rgb(255,98,0);}
-h1{color: green;}
-h2{color: #c10087;}
-h3{color: red;}
 p{width: 300px;}
+p{text-align: justify; width: 300px;}
+h1{color: green;} 
+h1{text-align: left;}
+h2{color: #c10087;}
+h2{text-align: center;}
+h2{width: 300px;}
+h3{color: red;}
 td {width: 400px; height: 300px;}
+td{text-align: center;}
+table{height: 500px;}
+th{text-align: left;}
+
