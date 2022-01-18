@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>(IndexHTML)</title>
+		<link rel="stylesheet" href="styles.css">
 	</head>
 	<body>	
 	<h2>страница index</h2>
