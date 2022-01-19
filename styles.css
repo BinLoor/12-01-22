@@ -1,35 +1,36 @@
-p{color: rgb(255,98,0);}
-p{width: 300px;}
-p{text-align: justify; width: 300px;}
-p{font-size: 30px;}
-p {font-family: Arial;}
-p{line-height: 1.5;}
+p{color: rgb(255,98,0);
+width: 300px;
+text-align: justify; width: 300px;
+font-size: 30px;
+font-family: Arial;
+line-height: 1.5;
+text-indent: 50px;}
 
-h1{color: green;} 
-h1{text-align: center;}
-h1{font-size: 50px;}
-h1{font-family: Georgia;}
+h1{color: green; 
+text-align: center;
+font-size: 50px;
+font-family: Georgia;}
 
-h2{color: #c10087;}
-h2{text-align: center;}
-h2{width: 300px;}
-h2{font-style: italic;}
-h2{font-size: 40px;}
-h2{font-weight: normal;}
-h2{font-family: Verdana;}
+h2{color: #c10087;
+text-align: center;
+width: 300px;
+font-style: italic;
+font-size: 40px;
+font-weight: normal;
+font-family: Verdana;}
 
-h3{color: red;}
-h3{font-family: "Trebuchet MS";}
+h3{color: red;
+font-family: "Trebuchet MS";}
 
-td{width: 400px; height: 300px;}
-td{text-align: center;} 
-td{font-weight: bold;}
-td{font-family: Impact}
+td{width: 400px; height: 300px;
+text-align: center; 
+font-weight: bold;
+font-family: Impact}
 
 table{width: 500px; height: 300px;}
 
-th{text-align: left;}
-th{font-weight: normal;}
-th{font-family: 'Arial Black'}
+th{text-align: left;
+font-weight: normal;
+font-family: 'Arial Black'}
 
 
