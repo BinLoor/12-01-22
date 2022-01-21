@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>(table)</title>
+	</head>
+	<body>	
+		<table border='1' width='400' height='300'>
+		<tr>
+		<th>Zagolovok1</th>
+		<th>Zagolovok2</th>
+		<th>Zagolovok3</th>
+		<th>Zagolovok4</th>
+		<th>Zagolovok5</th>
+		</tr>
+		<tr>
+		<td>0</td>
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+		<td>4</td>
+		</tr>
+		<tr>
+		<td>5</td>
+		<td>6</td>
+		<td>7</td>
+		<td>8</td>
+		<td>9</td>
+		</tr>
+		<tr>
+		<td>a</td>
+		<td>b</td>
+		<td>c</td>
+		<td>d</td>
+		<td>e</td>
+		</tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>(ЗаголовокPage2)</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>	
+	<h1>страница page2</h1>
+	<ul>
+<li><a href="page.html">ссылка на Первую страницу</a></li>
+<li><a href="page3.html">Третья страница</a></li>
+	</ul>
+	<p>Длинный-длинный-длинный-длинный-длинный-длинный-длинный текст</p>
+	</body>
+</html>
