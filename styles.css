@@ -4,12 +4,14 @@ text-align: justify; width: 300px;
 font-size: 30px;
 font-family: Arial;
 line-height: 1.5;
-text-indent: 50px;}
+text-indent: 50px;
+text-decoration: underline;}
 
 h1{color: green; 
 text-align: center;
 font-size: 50px;
-font-family: Georgia;}
+font-family: Georgia;
+text-decoration: overline;}
 
 h2{color: #c10087;
 text-align: center;
@@ -17,10 +19,12 @@ width: 300px;
 font-style: italic;
 font-size: 40px;
 font-weight: normal;
-font-family: Verdana;}
+font-family: Verdana;
+text-decoration: line-through;}
 
 h3{color: red;
-font-family: "Trebuchet MS";}
+font-family: "Trebuchet MS";
+text-decoration}
 
 td{width: 400px; height: 300px;
 text-align: center; 
@@ -32,5 +36,7 @@ table{width: 500px; height: 300px;}
 th{text-align: left;
 font-weight: normal;
 font-family: 'Arial Black'}
+
+a{color:red; text-decoration:none;}
 
 
