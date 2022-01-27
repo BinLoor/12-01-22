@@ -1,6 +1,2 @@
-<Тэг с заданным классом задача 1>
-.header {
-	color: red;
-}
-h2.header {font-size: 40px}
-h3.header {font-size: 30 px}
+<Селектор потомков и классы Задача 1>
+.eee i {color: red}
