@@ -1,29 +1,6 @@
-.xxx {font-size: 30px}
-.eve {color: red}
-.blc1 {color: red}
-.blc2 {color: green}
- <группировка селекторов Задача1>
- .eee {
-	font-size: 20px;
+<Тэг с заданным классом задача 1>
+.header {
+	color: red;
 }
-.zzz {
-	font-size: 30px;
-}
- .zzz, .eee {
-	 line-height: 1.5;
-	font-family: Arial
-	}
-<Группировка селекторов Задача2>
-.eee {
-	font-size: 20px;
-}
-.zzz {
-	font-size: 30px;
-}
-.ggg {
-	font-size: 35px;
-}
-.eee, .zzz, .ggg {
-	text-align: center;
-	font-family: Arial;
-}
+h2.header {font-size: 40px}
+h3.header {font-size: 30 px}
