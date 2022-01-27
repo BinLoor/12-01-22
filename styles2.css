@@ -2,3 +2,14 @@
 .eve {color: red}
 .blc1 {color: red}
 .blc2 {color: green}
+ <группировка селекторов Задача1>
+ .eee {
+	font-size: 20px;
+}
+.zzz {
+	font-size: 30px;
+}
+ .zzz, .eee {
+	 line-height: 1.5;
+	font-family: Arial
+	}
