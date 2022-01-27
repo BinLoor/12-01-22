@@ -1,4 +1,12 @@
-.eee .bbb .kkk {
+.success {
+	color: green;
+}
+.error {
 	color: red;
 }
-<!-- Селектор выбирает все элементы класса kkk внутри элементов класса bbb внутри элементов класса eee -->
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
