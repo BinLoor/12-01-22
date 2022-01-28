@@ -1,1 +1,4 @@
-.eee.zzz.ccc {color: green}
+.bbb.zzz {
+	color: red; font-size: 50px;
+}
+<!-- Этот селектор выберет элемент, одновременно имеющий класс bbb и класс zzz -->
