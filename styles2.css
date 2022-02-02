@@ -1,1 +1,1 @@
-a[href^="http://"] {color: red;}
+a[href$='.html'] {color: red;}
