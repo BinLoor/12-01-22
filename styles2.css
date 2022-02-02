@@ -1,4 +1,1 @@
-#elem.bbb.zzz {
-	color: red;
-}
-<!-- Этот селектор выберет элемент с id=elem, имеющий класс bbb и zzz -->
+#elem + li {color:red}
