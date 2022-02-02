@@ -1,1 +1,1 @@
-p[title] {color: red}
+p[title='привет'] {color: red}
