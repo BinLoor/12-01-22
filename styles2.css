@@ -1,1 +1,1 @@
-a[href$='.html'] {color: red;}
+p[title*='привет'] {color: red;}
