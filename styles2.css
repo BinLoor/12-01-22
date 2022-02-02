@@ -1,1 +1,1 @@
-p[title*='привет'] {color: red;}
+p[class^='top'] {color: red;}
