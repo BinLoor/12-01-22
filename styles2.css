@@ -1,1 +1,1 @@
-li:nth-last-child(2) {color: red;}
+li:only-child {color: red;}
