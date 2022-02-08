@@ -1,3 +1,1 @@
-p:nth-of-type(2) {color: red;}
-li:nth-last-of-type(1) {color: orange;}
-h3:only-of-type {color: green}
+li:not(.elem){color:red}
