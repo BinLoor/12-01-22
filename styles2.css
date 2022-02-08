@@ -1,4 +1,2 @@
-li:empty {border: 1px solid blue;
-width: 100px;}
-li{border: 1px solid red;
-width: 100px;}
+p:first-of-type {color: green;}
+li:last-of-type {color: red;}
