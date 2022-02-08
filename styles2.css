@@ -1,7 +1,1 @@
-.block a.zzz {
-	color: red;
-}
-.block a.zzz:hover {
-	text-decoration: none;
-}
-<!-- Данный селектор красит все ссылки класса zzz внутри блока класса block в красный, у состояния 'hover' класса zzz внутри блока убирает подчеркивание-->
+li:first-child {color: red;}
