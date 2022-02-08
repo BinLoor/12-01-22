@@ -1,5 +1,7 @@
-a {color: red;} 
-a:hover{text-decoration: underline;}
-a:link {color:blue; text-decoration: none;} 
-a:visited {color:blue; text-decoration: none;}
-a:active {color:blue; text-decoration: none;}
+a {
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+}
+<!-- Данный селектор красит все ссылки в красный, у состояния 'hover' убирает подчеркивание-->
