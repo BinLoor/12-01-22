@@ -1,1 +1,4 @@
-li:only-child {color: red;}
+li:empty {border: 1px solid blue;
+width: 100px;}
+li{border: 1px solid red;
+width: 100px;}
