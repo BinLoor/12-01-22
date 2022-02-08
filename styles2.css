@@ -1,2 +1,2 @@
-p:first-of-type {color: green;}
-li:last-of-type {color: red;}
+p:nth-of-type(2) {color: red;}
+li:nth-last-of-type(1) {color: orange;}
