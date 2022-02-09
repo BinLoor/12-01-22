@@ -1,3 +1,5 @@
-#elem {width: 200px;
-height: 200px;
-background-color: violet}
+#elem {width: 250px;
+height: 150px;
+background-color: green; color:white;
+text-align: center;
+font-size: 30px;}
