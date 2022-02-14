@@ -1,3 +1,5 @@
-ol {
- list-style-type: upper-alpha;
-}
+#elem1 {width: 400px; 
+border: 1px dashed blue;}
+#elem2 {margin: 50px;
+height: 300px;
+border: 1px solid orange;}
