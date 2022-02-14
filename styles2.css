@@ -1,5 +1,7 @@
 #elem1 {width: 400px; 
-border: 1px dashed blue;}
-#elem2 {margin: 50px;
-height: 300px;
-border: 1px solid orange;}
+	border: 1px dashed blue;}
+#elem2 {margin: 25px;
+	border: 1px dashed green;}
+#elem3 {height: 200px;
+    margin: 25px;
+    border: 1px solid red;}
